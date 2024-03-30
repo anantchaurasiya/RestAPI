@@ -4,4 +4,4 @@ This project demonstrates the implementation of RESTful web services using Java 
 Java,
 Jersey (JAX-RS implementation),
 Maven,
-MSSQL Database,
+MSSQL Database.
